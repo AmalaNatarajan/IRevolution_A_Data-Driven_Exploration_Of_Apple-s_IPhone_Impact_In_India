@@ -7,4 +7,4 @@ Dashboard Smartphones Link = https://public.tableau.com/views/SmartphoneEvolutio
 
 Story iAdventure Link = https://public.tableau.com/views/iPhoneAdventure/iAdventure?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-Video Demonstration Link = https://drive.google.com/file/d/1PqJu_k_5YL31Mw5qXk_RfUkDIjuHYkLM/view?usp=drive_link
+Video Demonstration Link = https://drive.google.com/file/d/1PqJu_k_5YL31Mw5qXk_RfUkDIjuHYkLM/view?usp=drivesdk
